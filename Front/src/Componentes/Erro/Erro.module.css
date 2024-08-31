@@ -1,0 +1,31 @@
+.erro{
+    min-height: 500px;
+    background-color: #222;
+}
+.erro h2{
+    color: white;
+    font-size: 3pc;
+    text-align: center;
+    padding-top: 100px;
+}
+.logo{
+    width: fit-content;
+    margin: 0 auto;
+}
+.erro button{
+    display: block;
+    margin-top: 50px;
+    font-size: 1.5pc;
+    padding: 10px 25px;
+    cursor: pointer;
+    transition: 200ms;
+    background-color: #444;
+    color: white;
+    border-radius: 5px;
+
+}
+.erro button:hover{
+    background-color: #fff;
+    color: black;
+    scale: 1.1;
+}  

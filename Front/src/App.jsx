@@ -3,6 +3,7 @@ import './ResetStyles.css'
 import Header from './Componentes/Header/Header';
 import Home from './Componentes/Home/Home';
 import Footer from './Componentes/Footer/Footer';
+import Erro from './Componentes/Erro/Erro';
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
     <Header />
       <Routes>
          <Route path="/" element={<Home />} /> 
+         <Route path="/*" element={<Erro />} /> 
       </Routes>
       <Footer />
     </BrowserRouter> 
