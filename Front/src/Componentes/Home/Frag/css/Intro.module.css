@@ -1,0 +1,29 @@
+.intro{
+    height: 550px;
+}
+.titulo_intro{
+    color: #fff;
+    text-align: center;
+    font-size: 62px;
+    font-weight: bold;
+    padding-top: 150px;
+}
+.img_intro{
+    width: fit-content;
+    margin: 20px auto;
+}
+.ul_intro{
+    width: 220px;
+    height: fit-content;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+.ul_intro li img{
+    height: 50px;
+}
+.ul_intro li{
+    /* margin: ; */
+}
