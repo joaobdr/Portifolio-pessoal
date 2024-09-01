@@ -42,7 +42,7 @@ main{
         width: 40rem;
     }
 }
-@media screen and (min-width: 500px) and (max-width: 674px) {
+@media screen and (max-width: 674px) {
     .container{
         width: 25rem;
     }

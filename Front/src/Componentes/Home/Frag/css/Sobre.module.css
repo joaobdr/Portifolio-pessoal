@@ -48,7 +48,7 @@
     border-right: 1px solid #fff;
 }
 
-@media screen and (min-width: 500px) and (max-width: 674px) {
+@media screen and (max-width: 674px) {
     .sobre p{
         width: 85%;
     }

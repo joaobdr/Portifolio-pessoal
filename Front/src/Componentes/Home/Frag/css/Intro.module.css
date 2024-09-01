@@ -1,6 +1,13 @@
 .intro{
     height: 550px;
 }
+.intro span{
+    display: block;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: #ddd;
+}
 .titulo_intro{
     color: #fff;
     text-align: center;
@@ -23,7 +30,4 @@
 }
 .ul_intro li img{
     height: 50px;
-}
-.ul_intro li{
-    /* margin: ; */
 }
